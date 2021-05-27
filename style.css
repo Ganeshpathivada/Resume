@@ -1,0 +1,122 @@
+#header{
+    display: grid;
+    grid-template-columns: 2fr 5fr;
+    background-color: black;
+    /* color: wheat; */
+}
+#image{
+    height: 150px;
+    width: 150px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+#name{
+    letter-spacing: 0.5em;
+    font-weight: bold;
+    margin-top: 20px;
+    color:#CDCDCF;
+}
+#web{
+    letter-spacing: 0.2em;
+    margin-top: 30px;
+    color:#CDCDCF;
+
+}
+#underline{
+    width: 440px;
+    height: 7px;
+    background-color: #CECED0;
+}
+#exp{
+    background: #b8b8bb;
+    padding: 10px;
+}
+#wrapper{
+    padding: 0px;
+    margin-top: 50px !important;
+}
+#exp1{
+    margin-right: 20px;
+    display: grid;
+    grid-template-columns: 1fr 2.5fr 4fr;
+}
+p{
+    text-align: justify;
+}
+#head{
+    font-weight: bold;
+}
+#ent{
+    margin-top: 0px;
+}
+#mrgn{
+    margin-left: 30px;
+}
+i{
+    font-size: 10px;
+}
+#contacts{
+    background: #b8b8bb;
+    padding: 10px;
+}
+#skills{
+    background: #b8b8bb;
+    padding: 10px;
+}
+#topm{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.phone{
+    font-size: 25px;
+    margin-left: 20px;
+}
+#space{
+    margin-left: 20px;
+    padding-top: 10px;
+    font-size: larger; 
+}
+.gmail-icon{
+    margin-left: 20px;
+    font-size:large;
+}
+#progress-bar{
+    background: #CDCDCF;
+    margin-top: 5px;
+    height: 10px;
+    width: 100px;
+}
+#progress1{
+    background: black;
+    height: 10px;
+    width: 80px;
+}
+#progress2{
+    background: black;
+    height: 10px;
+    width: 80px;
+}
+#progress3{
+    background: black;
+    height: 10px;
+    width: 60px;
+}
+#progress4{
+    background: black;
+    height: 10px;
+    width: 70px;
+}
+#progress5{
+    background: black;
+    height: 10px;
+    width: 50px;
+}
+#ui{
+    display: grid;
+    grid-template-columns: 0.2fr 0.5fr;
+}
+.skills{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
